@@ -11,10 +11,10 @@
 <br/><br/>
 
 <!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=dushyant2026&style=for-the-badge&color=415a77&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=dushyant-1312&style=for-the-badge&color=415a77&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/dushyant-1312?tab=followers">
-  <img src="https://img.shields.io/github/followers/dushyant2026?style=for-the-badge&color=1b263b&labelColor=0d1b2a&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/dushyant-1312?style=for-the-badge&color=1b263b&labelColor=0d1b2a&label=FOLLOWERS" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/dushyant1312/">
-  <img src="https://img.shields.io/badge/LeetCode-Dushyant2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-dushyant1312-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/profile/dushyant2026">
