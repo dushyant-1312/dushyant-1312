@@ -241,12 +241,6 @@ const dushyant = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dushyant-1312&show_icons=true&theme=midnight-purple&count_private=true&hide_border=false&border_color=415a77&border_radius=10&title_color=778da9&icon_color=e0e1dd&text_color=e0e1dd&bg_color=0d1b2a" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant-1312&layout=compact&theme=midnight-purple&hide_border=false&border_color=415a77&border_radius=10&title_color=778da9&text_color=e0e1dd&bg_color=0d1b2a" />
-
-<br/><br/>
-
 <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant-1312&theme=midnight-purple&hide_border=false&border=415a77&stroke=778da9&ring=e0e1dd&fire=FFA116&currStreakLabel=778da9&background=0d1b2a&sideLabels=e0e1dd&currStreakNum=e0e1dd&dates=778da9&sideNums=e0e1dd" />
 
 </div>
