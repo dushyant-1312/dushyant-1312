@@ -44,14 +44,14 @@
 
 ```typescript
 const dushyant = {
-  role:        "Final-Year B.Tech (CSE) @ Vellore Institute of Technology",
+  role:        "B.Tech (CSE) @ Vellore Institute of Technology",
   gpa:         "8.4 / 10",
   superpower:  "Shipping products at the intersection of Web2 + Web3 + AI",
   research:    "Blockchain-based Healthcare Data — Published @ 5th ICSRI",
   competitive: "1,500+ problems · LeetCode Knight · HackerRank 5★",
   shipped:     "500+ real users in production",
   certs:       ["IBM Certified Blockchain Developer", "Ethnus MERN Full-Stack"],
-  contact:     "dushyantpandit799@gmail.com"
+  contact:     "dushyantmudgal1312@gmail.com"
 };
 ```
 
